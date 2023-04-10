@@ -30,3 +30,19 @@
 *.exe
 *.out
 *.app
+
+# build directories
+cmake-build-debug/
+build/
+
+# IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+# kdevelop
+kdevelop4/
+*.kdev4
+
+*user*

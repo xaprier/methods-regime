@@ -109,4 +109,10 @@ displayed by Ê<sub><i>fl</i></sub> .
   <br>
  </p>
  <p>where <i>w<sub>j</sub></i> represents the weight of attributes provided by the decision maker.</p>
+
+ ## 2.3 Impacts Matrix
+ <p>
+ This matrix is derived from ranking the alternatives based on the attributes which
+rank the alternatives from decision-matrix information.
+ </p>
 </details>

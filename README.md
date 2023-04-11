@@ -83,3 +83,17 @@ the information received from the decision maker as in Eq. (<a href="#1.1">1.1</
         </tr>
     </table><br>
 </details>
+<details>
+  <summary>Description of REGIME Method</summary>
+
+  ## 2.1 Superiority Index
+  <p>
+  In decision matrix of Eq. (2.1), r<sub>ij</sub> is the element of the decision matrix for <i>i</i>th
+alternative in <i>j</i>th attribute. Then, the decision maker provides the weight of
+attributes [ w<sub>1</sub> ; w<sub>2</sub> ; ... ; w<sub>n</sub> ]:
+  </p>
+  <p>
+  The set of attributes in which alternative A<sub><i>f</i></sub> is at least as good as alternative A<sub><i>l</i></sub> ,
+displayed by Ê<sub><i>fl</i></sub> .
+ </p>
+</details>

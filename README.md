@@ -96,4 +96,17 @@ attributes [ w<sub>1</sub> ; w<sub>2</sub> ; ... ; w<sub>n</sub> ]:
   The set of attributes in which alternative A<sub><i>f</i></sub> is at least as good as alternative A<sub><i>l</i></sub> ,
 displayed by Ê<sub><i>fl</i></sub> .
  </p>
+
+ ## 2.2 Superiority Identifier
+ <p>
+ The superiority identifier is calculated by Eq. (<a href="#2.2">2.2</a>).
+ </p>
+ <p align="center" id="2.2">
+  <img alt="Eq 2.2" src="assets/formula1.png">
+  </img>
+  <br>
+  (2.2)
+  <br>
+ </p>
+ <p>where <i>w<sub>j</sub></i> represents the weight of attributes provided by the decision maker.</p>
 </details>

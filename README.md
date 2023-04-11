@@ -115,4 +115,26 @@ displayed by Ê<sub><i>fl</i></sub> .
  This matrix is derived from ranking the alternatives based on the attributes which
 rank the alternatives from decision-matrix information.
  </p>
+
+ ## 2.4 REGIME Matrix
+ <p>
+  The REGIME matrix is derived from pairwise comparison of alternatives. For example, if two alternatives of <i>A<sub>1</sub> , A<sub>2</sub> &isin; A</i> are considered, the status of <i>A<sub>1</sub> , A<sub>2</sub></i> alternatives should be compared to each other in all attributes.
+ </p>
+ <p>
+ For each <i>C<sub>j</sub></i> attribute, the <i>E<sub>fl,j</sub></i> identifier is defined for each (<i>A<sub>f</sub> , A<sub>l</sub></i>) alternative as in Eq. (<a href="#2.3">2.3</a>) [6, 9].
+ </p>
+ <p align="center" id="2.3">
+  <img src="assets/formula2.png" alt="Eq 2.3">
+  <br>
+  (2.3)
+ </p>
+ <p>
+ where (<i>r<sub>lj</sub> , r<sub>fj</sub></i> ) indicates the rank of (<i>A<sub>l</sub> , A<sub>f</sub></i> ) alternative based on the attribute <i>C<sub>j</sub></i> . When two alternatives are examined in all attributes, a vector is defined as in Eq. (<a href="#2.4">2.4</a>) [6, 9].
+ </p>
+ <p align="center" id="2.4">
+  <img src="assets/formula3.png" alt="Eq 2.4">
+ </p>
+ <p>
+ The vector of Eq. (<a href="#2.4">2.4</a>) is called the REGIME, and the total matrix is result of the REGIME vectors.
+ </p>
 </details>

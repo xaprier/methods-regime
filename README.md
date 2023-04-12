@@ -146,4 +146,7 @@ rank the alternatives from decision-matrix information.
  <i>Ê<sub>fl</sub></i> obtains a final ranking of alternatives.<br>
 
  The second technique: The value of the best alternative is obtained by the superior identifier <i>Ê<sub>fl</sub></i>. In fact, the REGIME method is based on the <i>Ê<sub>fl</sub></i> - <i>Ê<sub>lf</sub></i> subtract. The positive result of subtract indicates that alternative <i>A<sub>f</sub></i> is superior to the alternative <i>A<sub>l</sub></i> , and the negative result demonstrates the superiority of alternative <i>A<sub>l</sub></i> over alternative <i>A<sub>f</sub></i> .
+
+ ## 2.6 The Final Ranking of Alternatives
+ According to the two techniques presented in the previous step, the final ranking of alternatives can be determined based on the guide index.
 </details>

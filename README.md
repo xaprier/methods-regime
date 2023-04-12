@@ -132,9 +132,18 @@ rank the alternatives from decision-matrix information.
  where (<i>r<sub>lj</sub> , r<sub>fj</sub></i> ) indicates the rank of (<i>A<sub>l</sub> , A<sub>f</sub></i> ) alternative based on the attribute <i>C<sub>j</sub></i> . When two alternatives are examined in all attributes, a vector is defined as in Eq. (<a href="#2.4">2.4</a>) [6, 9].
  </p>
  <p align="center" id="2.4">
-  <img src="assets/formula3.png" alt="Eq 2.4">
+  <img src="assets/formula3.png" alt="Eq 2.4"></img><br>(2.4)
  </p>
  <p>
  The vector of Eq. (<a href="#2.4">2.4</a>) is called the REGIME, and the total matrix is result of the REGIME vectors.
  </p>
+
+ ## 2.5 The Guide Index
+ <b>The first technique:</b> The guide index <i>Ê<sub>jl</sub></i> is introduced as in Eq. (<a href="#2.5">2.5</a>) [9].
+ <p align="center" id="2.5">
+  <img src="assets/formula4.png" alt="Eq 2.5"></img><br>(2.5)
+ </p>
+ <i>Ê<sub>fl</sub></i> obtains a final ranking of alternatives.<br>
+
+ The second technique: The value of the best alternative is obtained by the superior identifier <i>Ê<sub>fl</sub></i>. In fact, the REGIME method is based on the <i>Ê<sub>fl</sub></i> - <i>Ê<sub>lf</sub></i> subtract. The positive result of subtract indicates that alternative <i>A<sub>f</sub></i> is superior to the alternative <i>A<sub>l</sub></i> , and the negative result demonstrates the superiority of alternative <i>A<sub>l</sub></i> over alternative <i>A<sub>f</sub></i> .
 </details>

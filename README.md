@@ -150,3 +150,18 @@ rank the alternatives from decision-matrix information.
  ## 2.6 The Final Ranking of Alternatives
  According to the two techniques presented in the previous step, the final ranking of alternatives can be determined based on the guide index.
 </details>
+
+<details>
+  <summary>Case Study</summary>
+  The dam construction project should be implemented by the relevant ministry. The project can be implemented by the relevant ministry (A<sub>1</sub>), domestic contractor (A<sub>2</sub>), or foreign contractor (A<sub>3</sub>). Attributes such as cost (C<sub>1</sub>), strength (<sub>2</sub>C), national reputation (C<sub>3</sub>), capacity (C<sub>4</sub>), and work hardness (C<sub>5</sub>) are available for decision making. <a href="#fig1.1">Fig. 1.1</a> displays the decision matrix. Further, <a href="#t1.1">Table 1.1</a> indicates the weight of the attributes. The purpose is to select the best contractor and express the final ranking of alternatives by the REGIME method.
+  <br><br>
+  <p align="center" id="fig1.1">
+    <img src="assets/study1.png" width="400"></img><br>
+    (Fig 1.1)
+  </p>
+  <p align="center" id="t1.1">
+    <img src="assets/study2.png" width="400"></img><br>
+    (Table 1.1)
+  </p>
+
+</details>

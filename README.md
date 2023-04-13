@@ -170,4 +170,10 @@ rank the alternatives from decision-matrix information.
     The superiority attribute is computed as follows:
     <p align="center"><img src="assets/study3.png" width="400"></img></p>
   </p>
+
+  ### Superiority Identifier
+  <p>
+    The superiority identifier is as follows:
+    <p align="center"><img src="assets/study4.png" width="400"></img></p>
+  </p>
 </details>

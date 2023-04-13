@@ -164,4 +164,10 @@ rank the alternatives from decision-matrix information.
     (Table 1.1)
   </p>
 
+  ## Solution
+  ### Superiority Index
+  <p>
+    The superiority attribute is computed as follows:
+    <p align="center"><img src="assets/study3.png" width="400"></img></p>
+  </p>
 </details>

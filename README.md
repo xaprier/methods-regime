@@ -102,7 +102,7 @@ displayed by Ê<sub><i>fl</i></sub> .
  The superiority identifier is calculated by Eq. (<a href="#2.2">2.2</a>).
  </p>
  <p align="center" id="2.2">
-  <img alt="Eq 2.2" src="assets/formula1.png">
+  <img alt="Eq 2.2" width="400" src="assets/formula1.png">
   </img>
   <br>
   (2.2)
@@ -124,7 +124,7 @@ rank the alternatives from decision-matrix information.
  For each <i>C<sub>j</sub></i> attribute, the <i>E<sub>fl,j</sub></i> identifier is defined for each (<i>A<sub>f</sub> , A<sub>l</sub></i>) alternative as in Eq. (<a href="#2.3">2.3</a>) [6, 9].
  </p>
  <p align="center" id="2.3">
-  <img src="assets/formula2.png" alt="Eq 2.3">
+  <img src="assets/formula2.png" width="400"  alt="Eq 2.3">
   <br>
   (2.3)
  </p>
@@ -132,7 +132,7 @@ rank the alternatives from decision-matrix information.
  where (<i>r<sub>lj</sub> , r<sub>fj</sub></i> ) indicates the rank of (<i>A<sub>l</sub> , A<sub>f</sub></i> ) alternative based on the attribute <i>C<sub>j</sub></i> . When two alternatives are examined in all attributes, a vector is defined as in Eq. (<a href="#2.4">2.4</a>) [6, 9].
  </p>
  <p align="center" id="2.4">
-  <img src="assets/formula3.png" alt="Eq 2.4"></img><br>(2.4)
+  <img src="assets/formula3.png" width="400"  alt="Eq 2.4"></img><br>(2.4)
  </p>
  <p>
  The vector of Eq. (<a href="#2.4">2.4</a>) is called the REGIME, and the total matrix is result of the REGIME vectors.
@@ -141,7 +141,7 @@ rank the alternatives from decision-matrix information.
  ## 2.5 The Guide Index
  <b>The first technique:</b> The guide index <i>Ê<sub>jl</sub></i> is introduced as in Eq. (<a href="#2.5">2.5</a>) [9].
  <p align="center" id="2.5">
-  <img src="assets/formula4.png" alt="Eq 2.5"></img><br>(2.5)
+  <img src="assets/formula4.png" width="400" height="150" alt="Eq 2.5"></img><br>(2.5)
  </p>
  <i>Ê<sub>fl</sub></i> obtains a final ranking of alternatives.<br>
 

@@ -176,4 +176,13 @@ rank the alternatives from decision-matrix information.
     The superiority identifier is as follows:
     <p align="center"><img src="assets/study4.png" width="400"></img></p>
   </p>
+
+  ### Impacts Matrix
+  <p>
+    Initially, the impacts matrix is formed based on ranking the alternatives. The negative attributes of cost and work hardness should be considered in this matrix. The first rank belongs to the lowest value, and the impacts matrix is as shown in <a href="#fig1.2">Fig. 1.2</a>.
+    <p align="center" id="fig1.2">
+      <img src="assets/study5.png" width="400"></img><br>
+      (Fig 1.2)
+    </p>
+  </p>
 </details>

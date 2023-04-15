@@ -185,4 +185,15 @@ rank the alternatives from decision-matrix information.
       (Fig 1.2)
     </p>
   </p>
+
+  ### REGIME Matrix
+  <p>
+    The REGIME matrix, obtained from pairwise comparison in the impact matrix, is formed as shown in <a href="#fig1.3">Fig. 1.3</a>.
+    <br>&nbsp;&nbsp;&nbsp;As:
+    <p align="center">
+      <img src="assets/study6.png" width="400"></img><br><br>
+      <img src="assets/study7.png" id="fig1.3" width="400"></img><br>
+      (Fig 1.3) REGIME Matrix
+    </p>
+  </p>
 </details>

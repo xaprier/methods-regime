@@ -196,4 +196,19 @@ rank the alternatives from decision-matrix information.
       (Fig 1.3) REGIME Matrix
     </p>
   </p>
+
+  ### The Guide Index
+  <p>
+    The guide index is obtained as follows:
+    <p align="center">
+      <i><b>
+      Ê<sub>12</sub> = -0.500<br>
+      Ê<sub>13</sub> = -0.500<br>
+      Ê<sub>21</sub> = 0.500<br>
+      Ê<sub>23</sub> = -0.300<br>
+      Ê<sub>31</sub> = 0.500<br>
+      Ê<sub>32</sub> = 0.300<br>
+      </b></i>
+    </p>
+  </p>
 </details>

@@ -211,4 +211,20 @@ rank the alternatives from decision-matrix information.
       </b></i>
     </p>
   </p>
+
+  ### The Final Ranking of Alternatives
+  <p>
+    The positive values of guide index in the first technique revealed that the alternative A<sub>3</sub> is better than alternative A<sub>2</sub> and both alternatives are better than alternative A<sub>1</sub>. Therefore, the ranking of alternatives is as follows:<br>
+    <p align="center"><b>
+      A<sub>3</sub> > A<sub>2</sub> > A<sub>1</sub>
+    </b></p>
+    In the second technique, the pairwise comparison of alternatives is considered by comparing the superiority attribute:<br><br>
+    <p align="center">
+      <img src="assets/study8.png" width="400"></img>
+    </p>
+    Consequently, the foreign contractor (A<sub>3</sub>) is the best alternative, and final ranking is as follows:
+    <p align="center"><b>
+      A<sub>3</sub> > A<sub>2</sub> > A<sub>1</sub>
+    </b></p>
+  </p>
 </details>

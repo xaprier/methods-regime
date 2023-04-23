@@ -9,4 +9,8 @@ add_executable(methods-regime
     src/main.cpp
     src/Attribute.cpp
     src/Attribute.hpp
+    src/Alternative.hpp
+    src/Alternative.cpp
+    src/ImpactsMatrix.cpp
+    src/ImpactsMatrix.hpp
     )

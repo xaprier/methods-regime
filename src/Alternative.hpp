@@ -2,10 +2,12 @@
 #define ALTERNATIVE_HPP
 
 #include "Attribute.hpp"
+#include <memory>
+#include <ostream>
 
 class Alternative {
     std::string name;
-    Attribute *attributes;
+    std::shared_ptr<Attribute> attributes;
     int numberOfAttributes;
 
 public:
@@ -31,6 +33,8 @@ public:
      * @return int value of number of attributes
     */
     int getNumberOfAttributes() const;
+
+    friend std::ostream &operator<<(std::ostream &os, const Alternative &alternative);
 };
 
 #endif // ALTERNATIVE_HPP

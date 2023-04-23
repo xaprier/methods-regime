@@ -1,0 +1,55 @@
+Needed
+- Regime Class
+- Alternative Class
+- Attribute Class
+- SuperiorityIndex # gereksiz
+- SuperiorityIdentifier # gereksiz
+- ImpactsMatrix
+- RegimeMatrix
+- TheGuideIndex
+
+
+Alternative
+    - Attribute
+
+Attribute
+    - Weight
+
+Regime
+    - Alternatives
+
+ImpactsMatrix
+    - Alternatives
+
+RegimeMatrix
+    - ImpactsMatrix
+
+TheGuideIndex
+    - RegimeMatrix
+    - Weights
+
+
+
+4 alternative
+12
+13
+14
+23
+24
+34
+
+
+normalinde
+12
+13
+14
+21
+23
+24
+31
+32
+34
+41
+42
+43
+n * (n-1) / 2

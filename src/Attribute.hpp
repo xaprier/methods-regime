@@ -16,7 +16,7 @@ class Attribute {
     /**
      * @brief Construct a new Attribute object with different value, other stuff same as other attribute
     */
-    Attribute(float value, const Attribute &other);
+    Attribute(float value, const Attribute *other);
 
     /**
      * @brief Construct a new Attribute object without value for the base of Attributes

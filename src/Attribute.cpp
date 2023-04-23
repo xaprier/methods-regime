@@ -2,7 +2,7 @@
 
 Attribute::Attribute() : weight(0), name("Not Specified"), value(0.0f), negative(false) {}
 
-Attribute::Attribute(float value, const Attribute &other) : weight(other.weight), name(other.name), value(value), negative(other.negative) {}
+Attribute::Attribute(float value, const Attribute *other) : weight(other->weight), name(other->name), value(value), negative(other->negative) {}
 
 Attribute::Attribute(float weight, std::string name, bool negative) : weight(weight), name(name), negative(negative) {}
 

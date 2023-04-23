@@ -15,9 +15,6 @@ Alternative
 Attribute
     - Weight
 
-Regime
-    - Alternatives
-
 ImpactsMatrix
     - Alternatives
 
@@ -27,6 +24,11 @@ RegimeMatrix
 TheGuideIndex
     - RegimeMatrix
     - Weights
+
+Regime
+    - Alternatives
+    - The Guide Index
+
 
 
 
